@@ -1,3 +1,5 @@
+_This project is almost totally the same as [multer](https://github.com/expressjs/multer). For now the only reason of the existence of this project is that we want to apply the latest code of the dependent project [busboy](https://github.com/mscdex/busboy). This project may be deprecated as soon as the original one publishes a new release using the latest code of busboy._
+
 # Multer [![Build Status](https://travis-ci.org/expressjs/multer.svg?branch=master)](https://travis-ci.org/expressjs/multer) [![NPM version](https://badge.fury.io/js/multer.svg)](https://badge.fury.io/js/multer) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 Multer is a node.js middleware for handling `multipart/form-data`, which is primarily used for uploading files. It is written
